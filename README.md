@@ -13,5 +13,6 @@
   </tr>
 </table>
 ### research
-Computer vision, multi-modal single target tracking，Generative confrontation network
+-single target tracking
+-Generative confrontation network
 
